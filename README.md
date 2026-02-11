@@ -1,30 +1,30 @@
 # Padavan 3.4 - The "Dave Täht Tribute" Edition
 
-> "When you miss Dave, modprobe sch_cake!"
-> — A tribute to the soul of bufferbloat mitigation.
+> **"When you miss Dave, modprobe sch_cake!"**
+> — *A tribute to the soul of bufferbloat mitigation.*
 
 ---
 
 ## 🕊️ In Loving Memory of Dave Täht
 
-### "穿越時空的夢想，我來幫他實現！"
-(Making a time-traveling dream come true!)
+### **"穿越時空的夢想，我來幫他實現！"**
+**(Making a time-traveling dream come true!)**
 
-This project is dedicated to Dave Täht, a visionary whose work on FQ-CoDel, CAKE, and LibreQoS changed the internet forever. We are fulfilling a wish he made 5 years ago on Reddit:
+This project is dedicated to **Dave Täht**, a visionary whose work on **FQ-CoDel**, **CAKE**, and **LibreQoS** changed the internet forever. We are fulfilling a wish he made 5 years ago on Reddit:
 
 ### ❝ Help port the code to more chipsets. ❞
 
-> The BEST engineering result I ever had:
+> **The BEST engineering result I ever had:**
 > Essentially the summation of my 16+ years of work to that point on making wifi better. Unpatented. Please share and enjoy.
 > **Help port the code to more chipsets.**
 >
-> — Dave Täht (Reddit, 5 years ago)
+> — *Dave Täht (Reddit, 5 years ago)*
 
-Original Source: [Reddit - r/Starlink](https://www.reddit.com/r/Starlink/comments/okmx3x/comment/h61unnn/)
+*Original Source:* [Reddit - r/Starlink](https://www.reddit.com/r/Starlink/comments/okmx3x/comment/h61unnn/)
 
-Dave turned down numerous lucrative contracts to keep his code Free and Open Source. He valued global impact over prestige. Because of him, millions of devices—from Starlink satellites to rural ISP routers—deliver smoother connectivity, enabling telemedicine, education, and connection for the underserved.
+Dave turned down numerous lucrative contracts to keep his code **Free and Open Source**. He valued global impact over prestige. Because of him, millions of devices—from Starlink satellites to rural ISP routers—deliver smoother connectivity, enabling telemedicine, education, and connection for the underserved.
 
-May his soul find eternal peace, and his spirit live on forever in our routers.
+**May his soul find eternal peace, and his spirit live on forever in our routers.**
 
 [👉 Read the full Memorial at LibreQoS](https://libreqos.io/2025/04/01/in-loving-memory-of-dave/)
 
@@ -32,36 +32,35 @@ May his soul find eternal peace, and his spirit live on forever in our routers.
 
 ## 🌟 Project Philosophy: Open & Accessible
 
-### 「永遠保持開放且開源的精神」
-(Forever maintaining an open and open-source spirit)
+### **「永遠保持開放且開源的精神」**
+**(Forever maintaining an open and open-source spirit)**
 
 This repository is based on the stable `padavan-ng` with **Linux 3.4 kernel**. We believe in giving power back to the user while honoring the giants who paved the way.
 
 1.  **CAKE Integration**: By default, we aim to support the `sch_cake` module (backported to 3.4) to honor Dave's legacy.
 2.  **Easy Multi-Model Support**: Support for a massive range of legacy devices, keeping them alive and fast.
 3.  **Flexible Language System**:
-    * English Base: The firmware defaults to a clean, English-only interface.
-    * Custom Language Packs: You can select one additional language (Traditional Chinese, Russian, etc.) during the build process to keep the firmware lightweight yet localized.
+    * **English Base**: The firmware defaults to a clean, English-only interface.
+    * **Custom Language Packs**: You can select *one* additional language (Traditional Chinese, Russian, etc.) during the build process to keep the firmware lightweight yet localized.
 
 ---
 
 ## 🗣️ Tributes from the Community
-"Dave’s impact on society was immense... He wanted, ultimately, to speed up the internet so that a drummer in London could play in real-time with a guitarist in Los Angeles."
-— Steven J. Vaughan-Nichols
 
-"I will miss him but will be always grateful to have known him."
-— Vint Cerf
+> "Dave’s impact on society was immense... He wanted, ultimately, to speed up the internet so that a drummer in London could play in real-time with a guitarist in Los Angeles."
+> — **Steven J. Vaughan-Nichols**
 
-"Without him, Netflix and similar services might still be plagued by glitches and stutters."
-— Eric S. Raymond
+> "I will miss him but will be always grateful to have known him."
+> — **Vint Cerf**
 
-See also:
+> "Without him, Netflix and similar services might still be plagued by glitches and stutters."
+> — **Eric S. Raymond**
 
-[LibreQoS Project](https://libreqos.io/)
+### See also:
 
-[LibreQoS Github Project](https://github.com/LibreQoE/LibreQoS/)
-
-[Dave's Talks: Reducing Network Latency (GOTO 2024)](https://www.youtube.com/watch?v=UDo9W4tt69c)
+* [LibreQoS Project](https://libreqos.io/)
+* [LibreQoS Github Project](https://github.com/LibreQoE/LibreQoS/)
+* [Dave's Talks: Reducing Network Latency (GOTO 2024)](https://www.youtube.com/watch?v=UDo9W4tt69c)
 
 ![Dave Täht Tribute](https://i0.wp.com/libreqos.io/wp-content/uploads/2025/04/WISPAPALOOZA-2024_6.jpg)
 *[Image Credit: LibreQoS]*
@@ -70,7 +69,7 @@ See also:
 
 ## 🚀 Supported Devices (Kernel 3.4)
 
-We support a vast array of MT7620/MT7621 devices. Pick the one you love!
+We support a vast array of **MT7620/MT7621** devices. Pick the one you love!
 
 | Brand | Models (Examples) |
 | :--- | :--- |
@@ -86,9 +85,9 @@ We support a vast array of MT7620/MT7621 devices. Pick the one you love!
 
 ## ✨ Features (3.4 Edition)
 
-* **Kernel**: Highly optimized Linux 3.4.x (Padavan-NG foundation).
+* **Kernel**: Highly optimized **Linux 3.4.x** (Padavan-NG foundation).
 * **Performance & Queue Management**:
-    * **CAKE / FQ_CoDel** (The Dave Täht Special) - Backported to 3.4 to mitigate bufferbloat on older devices!
+    * **CAKE / FQ_CoDel** (The Dave Täht Special) - **Backported to 3.4** to mitigate bufferbloat on older devices!
     * Hardware NAT (PPE) support for gigabit speeds.
 * **Wireless**: Optimized drivers for MT7603/MT7612/MT7620/MT7628.
 * **Network**:
@@ -107,19 +106,25 @@ We support both **GitHub Actions** (for ease of use) and **Manual Compilation**.
 
 Just go to the `Actions` tab in this repository, select `Build firmware (Ultimate Fix)`, and choose:
 
-1.  Target Model: (e.g., `TL_C2-V1`, `MI-MINI`, `RT-N56U`...)
-2.  Language: (e.g., `English_Only` or `CN (繁體中文)`)
-3.  Toolchain: (Default or Padavan-NG)
+1.  **Target Model**: (e.g., `TL_C2-V1`, `MI-MINI`, `RT-N56U`...)
+2.  **Language**: (e.g., `English_Only` or `CN (繁體中文)`)
+3.  **Toolchain**: (Default or Padavan-NG)
 
 The system will automatically apply the **CAKE Patch**, configure your language, and build your firmware.
 
 ### Option B: Manual Compilation
 
-#### Please see the original part of readme below!
+*Please see the original part of readme below!*
 
 ---
 
-Original readme below
+# Original README & Manual Compilation Instructions
+
+# README #
+
+#### Please see the original part of readme below!
+
+---
 
 # README #
 
