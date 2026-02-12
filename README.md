@@ -48,13 +48,23 @@ In his 2016 blog post *"Finally... the real net-next 4.8 fq_codel results"*, Dav
 > *"I pulled the **odroid C2** out, and made it the test driver..."*
 Today, we have successfully ported his work to the **TP-Link Archer C2**.
 
-**Dave was the Archer.**
-**The Code is the Arrow.**
-**And we are the target: A bufferbloat-free world.**
+**Dave was the Archer. The Code is the Arrow.**
 
 *Sources:*
 * [Cake Presentation (Battlemesh v8, 2015)](https://www.bufferbloat.net/projects/attachments/150817135028_cake-battlemesh-v8.pdf)
 * [CeroWrt Blog (2016)](https://blog.cerowrt.org/post/real_results/)
+
+---
+
+### ⭐ Light up the Dark: A Final Tribute
+
+**"The darker the night, the brighter the light."**
+
+Did you know? Dave's surname **"Täht"** literally means **"Star"** in Estonian.
+
+If this project helps you, or if you simply want to honor his legacy, please **Light up the "Star"** in the top-right corner of this repository.
+
+Let's keep his Star shining bright in the open-source world, guiding packets through the dark.
 
 ---
 
