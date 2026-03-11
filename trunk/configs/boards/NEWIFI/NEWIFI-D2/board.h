@@ -4,8 +4,8 @@
 #define BOARD_NAME "NEWIFI-D2"
 #define BOARD_DESC "Lenovo NEWIFI-D2 Wireless Router"
 #define BOARD_VENDOR_NAME "Lenovo(Beijing) Limited"
-#define BOARD_VENDOR_URL"http://www.newifi.com/"
-#define BOARD_MODEL_URL"http://www.newifi.com/product_newifi3_summary.shtml"
+#define BOARD_VENDOR_URL "http://www.newifi.com/"
+#define BOARD_MODEL_URL "http://www.newifi.com/product_newifi3_summary.shtml"
 #define BOARD_BOOT_TIME 30
 #define BOARD_FLASH_TIME 120
 #define BOARD_GPIO_BTN_RESET 3
